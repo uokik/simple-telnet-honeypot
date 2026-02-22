@@ -2,3 +2,10 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 # Simple telnet honeypot in GO
+
+## Features 
+- Full session logging
+- Discord integration
+- Geolocation
+- Command simulation
+
