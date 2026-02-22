@@ -6,7 +6,7 @@
 ## Features 
 - Full session logging
 - Discord integration
-- Geolocation
+- Geolocation (IPInfo)
 - Command simulation
 
 ## Commands
@@ -20,5 +20,7 @@ sh/bash
 echo
 exit
 ```
+
+
 
 
