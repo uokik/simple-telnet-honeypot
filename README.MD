@@ -9,3 +9,16 @@
 - Geolocation
 - Command simulation
 
+## Commands
+```ls
+cat
+uname
+id/whoami
+ping
+wget
+sh/bash
+echo
+exit
+```
+
+
